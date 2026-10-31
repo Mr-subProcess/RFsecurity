@@ -1,0 +1,11 @@
+# RFSEC demo fixture only — intentionally contains insecure examples.
+# Do not copy these settings into a real network.
+management:
+  bind_address: 0.0.0.0
+  endpoint: http://127.0.0.1:8080/admin
+security:
+  verify_peer: false
+  auth_required: false
+  api_token: changeme
+logging:
+  debug: true

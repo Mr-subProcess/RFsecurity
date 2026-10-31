@@ -1,0 +1,4 @@
+timestamp_ms,event_type,direction,actor_token,peer_token,auth_status,route_status,result
+1793472000000,SMS,OUT,a1b2c3d4e5f60718,abcd222233334444,verified,trusted,success
+1793472001000,CALL,OUT,a1b2c3d4e5f60718,bcde333344445555,verified,trusted,success
+1793472002000,SMS,OUT,a1b2c3d4e5f60718,cdef444455556666,unverified,untrusted,failed

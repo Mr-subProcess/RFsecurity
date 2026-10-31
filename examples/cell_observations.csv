@@ -1,0 +1,4 @@
+timestamp_ms,rat,mcc,mnc,tac,cell_id,pci,arfcn,rsrp_dbm,rsrq_db,ciphering
+1793472000000,LTE,286,01,00A1,00001234,101,6300,-82.5,-10.2,enabled
+1793472005000,LTE,286,01,00A1,00001234,101,6300,-80.0,-9.8,enabled
+1793472010000,LTE,999,99,00B2,00009999,101,6300,-43.0,-6.0,unknown
